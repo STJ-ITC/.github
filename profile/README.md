@@ -1,12 +1,15 @@
-## Hi there 👋
+# 🚀 STJ Organization
 
-<!--
+Welcome to the official **STJ** Organization space! We focus on modern web development, computer science research, and building open-source developer tools.
 
-**Here are some ideas to get you started:**
+## 👨‍💻 About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 🎓 **Focus:** Computer Science, Web Engineering & Open-Source Tools
+* 📍 **Location:** Cambodia
+* 🌐 **Official Website:** [stj.peakbrosmao.me](https://stj.peakbrosmao.me/)
+
+## 📬 Connect With Us
+
+* **Website:** [stj.peakbrosmao.me](https://stj.peakbrosmao.me/)
+
+*Built with ❤️ by STJ Organization.*
